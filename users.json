@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "password": "a746222f09d85605c52d4e636788d6ffdc274698b98b8c5f3244c06958683a69" /*snow*/,
+    "role": "admin",
+    "lastIp": "",
+    "knownIps": ["", "", ""],
+    "lastSeen": "",
+    "registeredAt": "",
+    "hasAvatar": false
+  }
+}
